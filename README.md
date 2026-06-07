@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/gayathri-711/leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gayathri-711/leet-code/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/gayathri-711/leet-code/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/gayathri-711/leet-code/tree/master/0055-jump-game) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
