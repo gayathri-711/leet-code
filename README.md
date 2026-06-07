@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/gayathri-711/leet-code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gayathri-711/leet-code/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/gayathri-711/leet-code/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,10 +39,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gayathri-711/leet-code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gayathri-711/leet-code/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gayathri-711/leet-code/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/gayathri-711/leet-code/tree/master/0059-spiral-matrix-ii) |
 ## Greedy
 |  |
 | ------- |
