@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/gayathri-711/leet-code/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
