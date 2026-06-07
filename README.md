@@ -13,8 +13,10 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gayathri-711/leet-code/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/gayathri-711/leet-code/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gayathri-711/leet-code/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/gayathri-711/leet-code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
