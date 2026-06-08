@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gayathri-711/leet-code/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/gayathri-711/leet-code/tree/master/0065-valid-number) |
 ## Linked List
 |  |
 | ------- |
