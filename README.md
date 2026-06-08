@@ -59,4 +59,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gayathri-711/leet-code/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
