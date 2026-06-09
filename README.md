@@ -8,6 +8,7 @@
 | [0060-permutation-sequence](https://github.com/gayathri-711/leet-code/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/gayathri-711/leet-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gayathri-711/leet-code/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/gayathri-711/leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/gayathri-711/leet-code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/gayathri-711/leet-code/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/gayathri-711/leet-code/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -82,4 +85,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gayathri-711/leet-code/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
