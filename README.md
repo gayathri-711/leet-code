@@ -9,6 +9,7 @@
 | [0062-unique-paths](https://github.com/gayathri-711/leet-code/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gayathri-711/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gayathri-711/leet-code/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gayathri-711/leet-code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
