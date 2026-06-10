@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gayathri-711/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
