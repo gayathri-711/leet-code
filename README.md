@@ -31,6 +31,7 @@
 | [0064-minimum-path-sum](https://github.com/gayathri-711/leet-code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gayathri-711/leet-code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/gayathri-711/leet-code/tree/master/0068-text-justification) |
+| [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
