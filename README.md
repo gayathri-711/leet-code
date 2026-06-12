@@ -81,6 +81,7 @@
 | [0065-valid-number](https://github.com/gayathri-711/leet-code/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/gayathri-711/leet-code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/gayathri-711/leet-code/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/gayathri-711/leet-code/tree/master/0071-simplify-path) |
 ## Linked List
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gayathri-711/leet-code/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/gayathri-711/leet-code/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
