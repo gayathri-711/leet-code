@@ -31,6 +31,7 @@
 | [0064-minimum-path-sum](https://github.com/gayathri-711/leet-code/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gayathri-711/leet-code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/gayathri-711/leet-code/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/gayathri-711/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@
 | [0059-spiral-matrix-ii](https://github.com/gayathri-711/leet-code/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/gayathri-711/leet-code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/gayathri-711/leet-code/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/gayathri-711/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/gayathri-711/leet-code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/gayathri-711/leet-code/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
 | ------- |
