@@ -32,6 +32,7 @@
 | [0066-plus-one](https://github.com/gayathri-711/leet-code/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/gayathri-711/leet-code/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/gayathri-711/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/gayathri-711/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gayathri-711/leet-code/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/gayathri-711/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/gayathri-711/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Combinatorics
 |  |
