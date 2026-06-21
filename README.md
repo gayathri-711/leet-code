@@ -90,6 +90,7 @@
 | [0068-text-justification](https://github.com/gayathri-711/leet-code/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/gayathri-711/leet-code/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/gayathri-711/leet-code/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/gayathri-711/leet-code/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -126,4 +127,9 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gayathri-711/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/gayathri-711/leet-code/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/gayathri-711/leet-code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
