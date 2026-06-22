@@ -37,6 +37,7 @@
 | [0078-subsets](https://github.com/gayathri-711/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gayathri-711/leet-code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gayathri-711/leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gayathri-711/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
@@ -125,6 +126,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/gayathri-711/leet-code/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/gayathri-711/leet-code/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gayathri-711/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Memoization
 |  |
 | ------- |
