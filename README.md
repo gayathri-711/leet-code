@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gayathri-711/leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gayathri-711/leet-code/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@
 | [0061-rotate-list](https://github.com/gayathri-711/leet-code/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/gayathri-711/leet-code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gayathri-711/leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gayathri-711/leet-code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/gayathri-711/leet-code/tree/master/0088-merge-sorted-array) |
 ## Combinatorics
 |  |
