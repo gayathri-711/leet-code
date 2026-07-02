@@ -159,6 +159,7 @@
 | [0079-word-search](https://github.com/gayathri-711/leet-code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gayathri-711/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gayathri-711/leet-code/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gayathri-711/leet-code/tree/master/0101-symmetric-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -169,13 +170,16 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gayathri-711/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gayathri-711/leet-code/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gayathri-711/leet-code/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gayathri-711/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gayathri-711/leet-code/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gayathri-711/leet-code/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gayathri-711/leet-code/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/gayathri-711/leet-code/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
