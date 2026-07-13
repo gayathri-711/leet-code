@@ -65,6 +65,7 @@
 | [0070-climbing-stairs](https://github.com/gayathri-711/leet-code/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/gayathri-711/leet-code/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/gayathri-711/leet-code/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/gayathri-711/leet-code/tree/master/0087-scramble-string) |
 ## Matrix
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0072-edit-distance](https://github.com/gayathri-711/leet-code/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gayathri-711/leet-code/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/gayathri-711/leet-code/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/gayathri-711/leet-code/tree/master/0087-scramble-string) |
 ## Linked List
 |  |
 | ------- |
